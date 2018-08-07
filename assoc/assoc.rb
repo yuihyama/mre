@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# enum.assoc(obj) -> an_array or nil
+
 s1 = ['I', 'love', 'you.']
 s2 = ['You', 'hate', 'me.']
 s3 = 'We'
