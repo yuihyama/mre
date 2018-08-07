@@ -1,0 +1,11 @@
+#<Greeting:0x00007f8e1d918770 @my_str="Hello">
+#<Greeting:0x00007f8e1d918770>
+
+Greeting
+Greeting
+
+[:my_str]
+my_str
+
+[:@my_str]
+@my_str
