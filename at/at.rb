@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# enume.at(int) -> obj or nil
+
 ary = [1, 'a', 2, 'b', 'c']
 
 p ary.at(0)
