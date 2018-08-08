@@ -1,0 +1,8 @@
+[MyClass2, MyClass1, MyModule, Object, Kernel, BasicObject]
+
+MyClass2
+MyClass1
+MyModule
+Object
+Kernel
+BasicObject
