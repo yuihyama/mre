@@ -1,0 +1,23 @@
+"inside const1"
+inside const1
+
+"inside const1"
+inside const1
+
+"inside const2"
+inside const2
+
+"root const2"
+root const2
+
+[:CONST2, :MyClass1]
+CONST2
+MyClass1
+
+true
+true
+
+true
+true
+
+[MyModule1::MyClass1::MyModule2, MyModule1::MyClass1, MyModule1]
