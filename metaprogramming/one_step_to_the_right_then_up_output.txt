@@ -1,0 +1,9 @@
+"my_method()"
+my_method()
+
+[MySubClass, MyClass, Object, Kernel, BasicObject]
+MySubClass
+MyClass
+Object
+Kernel
+BasicObject
