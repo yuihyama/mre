@@ -1,4 +1,4 @@
-#<MyClass:0x00007fdfb61305e0>
-#<MyClass:0x00007fdfb61305e0>
-"hello_world"
-hello_world
+#<MyClass:0x00007ffc5c0c0ac0>
+#<MyClass:0x00007ffc5c0c0ac0>
+"hello, world"
+hello, world
