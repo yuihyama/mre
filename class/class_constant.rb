@@ -1,8 +1,8 @@
 #!/usr/bin/env ruby
 
 class MyClass
-  Constant1 = 1
+  CONSTANT1 = 1
 end
 
-p MyClass::Constant1
-puts MyClass::Constant1
+p MyClass::CONSTANT1
+puts MyClass::CONSTANT1
