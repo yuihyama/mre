@@ -1,0 +1,2 @@
+#<MyClass:0x00007f9c70074a18 @a_w=1>
+#<MyClass:0x00007f9c70074a18>
