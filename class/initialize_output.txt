@@ -1,0 +1,4 @@
+"p initialize"
+puts initialize
+#<MyClass:0x00007fce4388c958>
+#<MyClass:0x00007fce4388c958>
