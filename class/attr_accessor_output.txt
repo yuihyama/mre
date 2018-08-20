@@ -1,0 +1,11 @@
+#<MyClass:0x00007fa8f20a7858 @a_a=1>
+#<MyClass:0x00007fa8f20a7858>
+1
+1
+
+2
+2
+5
+9
+#<MyClass:0x00007fa8f20a7858 @a_a=9>
+#<MyClass:0x00007fa8f20a7858>
