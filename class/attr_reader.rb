@@ -9,7 +9,9 @@ class MyClass
 end
 
 obj = MyClass.new(1)
+p obj
 puts obj
+p obj.a_r
 puts obj.a_r
 
 # obj.a_r = 2
