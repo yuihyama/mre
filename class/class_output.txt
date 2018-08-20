@@ -1,0 +1,14 @@
+MyClass1
+MyClass1
+
+"constant"
+constant
+
+Class
+Class
+
+Object
+Object
+
+MyClass1
+MyClass1
