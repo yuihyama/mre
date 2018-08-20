@@ -1,2 +1,4 @@
-#<MyClass:0x00007f8a22864990>
+#<MyClass:0x00007fd2c6898528 @a_r=1>
+#<MyClass:0x00007fd2c6898528>
+1
 1
