@@ -7,12 +7,12 @@ module MyModule1
 
   p MyClass1::CONST1
   puts MyClass1::CONST1
-  puts
+  puts ''
 end
 
 p MyModule1::MyClass1::CONST1
 puts MyModule1::MyClass1::CONST1
-puts
+puts ''
 
 CONST2 = 'root const2'
 
@@ -20,25 +20,25 @@ module MyModule1
   CONST2 = 'inside const2'
   p CONST2
   puts CONST2
-  puts
+  puts ''
 
   p ::CONST2
   puts ::CONST2
 end
 
-puts
+puts ''
 
 p MyModule1.constants
 puts MyModule1.constants
-puts
+puts ''
 
 p Module.constants.include? :Object
 puts Module.constants.include? :Object
-puts
+puts ''
 
 p Module.constants.include? :Module
 puts Module.constants.include? :Module
-puts
+puts ''
 
 module MyModule1
   class MyClass1

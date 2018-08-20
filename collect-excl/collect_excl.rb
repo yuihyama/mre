@@ -6,13 +6,13 @@ ary1 = %w[a b c d]
 ary1.collect! { |c| c + '?!' }
 p ary1
 puts ary1
-puts
+puts ''
 
 ary2 = %w[a b c d]
 ary2.collect! { |c| c + '!?' }
 p ary2
 puts ary2
-puts
+puts ''
 
 ary3 = [1, 2, 3]
 ary3.collect! { |n| n ** 2}

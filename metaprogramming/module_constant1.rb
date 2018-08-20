@@ -10,7 +10,7 @@ end
 
 p MyModule::CONST
 puts MyModule::CONST
-puts
+puts ''
 
 p MyModule::MyClass::CONST
 puts MyModule::MyClass::CONST

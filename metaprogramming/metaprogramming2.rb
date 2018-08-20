@@ -9,51 +9,51 @@ end
 obj = MyClass.new
 p obj
 puts obj
-puts
+puts ''
 
 p obj.my_method
 puts obj.my_method
-puts
+puts ''
 
 p obj.instance_variables
 puts obj.instance_variables
-puts
+puts ''
 
 p obj.methods.grep(/my/)
 puts obj.methods.grep(/my/)
-puts
+puts ''
 
 p String.instance_methods == 'xyz'.methods
 puts String.instance_methods == 'xyz'.methods
-puts
+puts ''
 
 p String.methods == 'xyz'.methods
 puts String.methods == 'xyz'.methods
-puts
+puts ''
 
 p 'hi'.class
 puts 'hi'.class
-puts
+puts ''
 
 p String.class
 puts String.class
-puts
+puts ''
 
 p Class.instance_methods(false)
 puts Class.instance_methods(false)
-puts
+puts ''
 
 p Array.superclass
 puts Array.superclass
-puts
+puts ''
 
 p BasicObject.superclass
 puts BasicObject.superclass
-puts
+puts ''
 
 p Class.superclass
 puts Class.superclass
-puts
+puts ''
 
 class MyClass
 end
@@ -64,7 +64,7 @@ p obj1
 puts obj1
 p obj2
 puts obj2
-puts
+puts ''
 
 p MyClass
 puts MyClass

@@ -4,7 +4,7 @@
 
 p ['a', nil, 'b'].compact
 puts ['a', nil, 'b'].compact
-puts
+puts ''
 
 p ['a', 'b'].compact
 puts ['a', 'b'].compact

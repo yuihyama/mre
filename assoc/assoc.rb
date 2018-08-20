@@ -10,11 +10,11 @@ a = [s1, s2, s3]
 
 p a.assoc('I')
 puts a.assoc('I')
-puts
+puts ''
 
 p a.assoc('You')
 puts a.assoc('You')
-puts
+puts ''
 
 p a.assoc('We')
 puts a.assoc('We')

@@ -12,7 +12,7 @@ end
 obj = MySubClass.new
 p obj.my_method()
 puts obj.my_method()
-puts
+puts ''
 
 p MySubClass.ancestors
 puts MySubClass.ancestors

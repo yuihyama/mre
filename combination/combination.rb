@@ -6,14 +6,14 @@
 ary = ['a', 'b', 'c']
 
 p ary.combination(2).to_a
-puts
+puts ''
 puts ary.combination(2).to_a
-puts
+puts ''
 print ary.combination(2).to_a, "\n"
-puts
+puts ''
 
 ary.combination(2) { |a| p a }
-puts
+puts ''
 
 ary.combination(2) do |a|
   puts a

@@ -11,5 +11,5 @@ class MyClass2 < MyClass1
 end
 
 p MyClass2.ancestors
-puts
+puts ''
 puts MyClass2.ancestors

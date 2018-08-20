@@ -6,18 +6,18 @@ ary = [1, 'a', 2, 'b', 'c']
 
 p ary.at(0)
 puts ary.at(0)
-puts
+puts ''
 
 ary.each_index { |i| p ary.at(i) }
-puts
+puts ''
 
 ary.each_index do |i|
   puts ary.at(i)
 end
-puts
+puts ''
 
 (0...ary.size).each { |i| p ary.at(i) }
-puts
+puts ''
 
 (0...ary.length).each do |i|
   puts ary.at(i)

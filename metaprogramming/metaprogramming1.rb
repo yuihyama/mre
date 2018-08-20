@@ -13,15 +13,15 @@ end
 my_obj = Greeting.new('Hello')
 p my_obj
 puts my_obj
-puts
+puts ''
 
 p my_obj.class
 puts my_obj.class
-puts
+puts ''
 
 p my_obj.class.instance_methods(false)
 puts my_obj.class.instance_methods(false)
-puts
+puts ''
 
 p my_obj.instance_variables
 puts my_obj.instance_variables

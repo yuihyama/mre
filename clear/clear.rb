@@ -5,19 +5,19 @@
 ary = %w[a b c d]
 p ary
 puts ary
-puts
+puts ''
 
 p ary.clear
 puts ary.clear
-puts
+puts ''
 
 p ary
 puts ary
-puts
+puts ''
 
 p [1]
 puts [1]
-puts
+puts ''
 
 p [1].clear
 puts [1].clear
