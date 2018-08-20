@@ -1,0 +1,4 @@
+#<MyClass:0x00007fdfb61305e0>
+#<MyClass:0x00007fdfb61305e0>
+"hello_world"
+hello_world
