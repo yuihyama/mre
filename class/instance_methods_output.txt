@@ -1,0 +1,4 @@
+#<MyInstanceMethods:0x00007fe5c603f170>
+4
+16
+#<MyInstanceMethods:0x00007fe5c603f170>
