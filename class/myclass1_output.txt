@@ -1,0 +1,10 @@
+MyClass1
+"constant"
+Class
+Object
+
+MyClass1
+
+8
+:class_method
+MyClass3
