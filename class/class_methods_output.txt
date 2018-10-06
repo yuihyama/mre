@@ -1,0 +1,4 @@
+MyClassMethods
+4
+16
+MyClassMethods
